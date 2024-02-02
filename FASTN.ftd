@@ -1,0 +1,10 @@
+-- import: fastn
+
+-- fastn.package: heulitig.github.io/portfolio-t2
+favicon: /-/heulitig.github.io/portfolio-t2/favicon.ico
+
+-- fastn.dependency: rutukapate.github.io/UI-Packages as package
+
+-- fastn.auto-import: package
+-- fastn.auto-import: heulitig.github.io/portfolio-t2/assets
+

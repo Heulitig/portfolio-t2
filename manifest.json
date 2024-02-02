@@ -1,0 +1,61 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "CA56BEF0EDB6A69CAA0E39E17382577DF427F8C32F5F7D9F2E4658D610664DA4",
+      "size": 283
+    },
+    "FASTN/ds.ftd": {
+      "name": "FASTN/ds.ftd",
+      "checksum": "EC1014F744A87ADAA156FC196A514A1253B771F0F52278B808A8F8FE67F504D8",
+      "size": 2350
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "984D00A6BC59CDF08034BE8509419789DF54DF49D58626375D3FE0AA2D8EA7BB",
+      "size": 1379
+    },
+    "_config.yml": {
+      "name": "_config.yml",
+      "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
+      "size": 21
+    },
+    "images/Image.png": {
+      "name": "images/Image.png",
+      "checksum": "06376BD525DE07E5623F982979B10B33E5B0817CA046585D5014AE5E0E6AD146",
+      "size": 116443
+    },
+    "images/Image2.png": {
+      "name": "images/Image2.png",
+      "checksum": "46F44E8A927BFBAB978C77655442BFB986EBDF7365C530524043E752702B14D6",
+      "size": 76877
+    },
+    "images/logo.svg": {
+      "name": "images/logo.svg",
+      "checksum": "B8BB1928E54CE409388BD287B04B1DEA5DD15E9789BB4B85E3E887881819AEC4",
+      "size": 252
+    },
+    "images/project1.jpg": {
+      "name": "images/project1.jpg",
+      "checksum": "024AD5CFF1EB8163EC6487347DA0DDA206EA38782F78F94B0726D29086B8CDCA",
+      "size": 29079
+    },
+    "images/project2.svg": {
+      "name": "images/project2.svg",
+      "checksum": "22BE6214955FD2343941B9D5F5FEAC74BF44E9EAD5192B2350749EBB7D301358",
+      "size": 318758
+    },
+    "images/project3.svg": {
+      "name": "images/project3.svg",
+      "checksum": "CB355700A36BBC6D891E8EB1F12D064111D4BAD8AD0CE2B1CE7DFD73DADB3023",
+      "size": 294541
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "FA36BEFC3DC769DE91F05AC47516EAB86017C70E4693925CA8C43CAD445DEE17",
+      "size": 8219
+    }
+  },
+  "zip_url": "https://codeload.github.com/heulitig/portfolio-t2/zip/refs/heads/main",
+  "checksum": "6F1BBDCFCF07FAEAF5865CCA54A60BB527BB0D3F6D8FA3E93973A84D2DA50C11"
+}
